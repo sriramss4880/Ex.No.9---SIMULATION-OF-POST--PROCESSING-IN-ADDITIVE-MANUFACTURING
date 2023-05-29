@@ -45,10 +45,13 @@
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
+## Output:![image](https://github.com/sriramss4880/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120554177/5d03c5ae-9009-47c6-bde0-b38f8fa77dbf)
+![image](https://github.com/sriramss4880/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120554177/00b456d9-a1d2-433a-8c0e-6f3e5b682c0a)
+![image](https://github.com/sriramss4880/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120554177/3e33ac86-88f2-4e8a-af4a-39f39beee30f)
 
-### Name:
-### Register Number:
+
+### Name:S S Sriram
+### Register Number:212222230150
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
